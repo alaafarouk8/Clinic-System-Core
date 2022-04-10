@@ -1,5 +1,5 @@
 # Clinic-System-Core
-Clinic System  Backend API Using Django Restfull Framework 
+Clinic System  Backend API Using Django Restful Framework 
 
 # Installtion
 - pip install django==3.2.10
